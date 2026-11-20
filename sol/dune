@@ -1,0 +1,3 @@
+(executables
+ (names gmin amm ammd)
+ (libraries src sexplib0))
